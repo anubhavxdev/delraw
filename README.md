@@ -109,4 +109,5 @@ flutter build ios --release
 - Powered by [Flutter](https://flutter.dev) & [Dart](https://dart.dev)
 - Styled with Material Design
 
-Built with ❤️ on Rocket.new
+Built with FounDev Studio
+
